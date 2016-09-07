@@ -1,7 +1,8 @@
 /******************************************
  * Student name:          Roy Shefi
  * Student ID:            
- * Course Exercise Group:   Mor 05
+
+ * Course Exercise Group:  Mor 05
  * Exercise name:            ex3
  ******************************************/
 //
