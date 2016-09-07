@@ -2,7 +2,7 @@
 Having formating problems regarding Hebrew.  
 ***********
 *Roy Shefi*
-*204845929 *
+* *
 *  Mor 05  *
 *   ex5    *
 '''
